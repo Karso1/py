@@ -1,0 +1,10 @@
+apple: red
+banana: yellow
+cherry: red
+mango: yellow
+grapes: green
+orange: orange
+lemon: yellow
+strawberry: red
+kiwi: green
+blueberry: blue
